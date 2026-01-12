@@ -6,3 +6,6 @@ The proposed framework integrates **preprocessing, feature extraction, and class
 
 Model performance is evaluated using **accuracy and loss metrics** across multiple training epochs, demonstrating effective and explainable brain tumor detection suitable for real-world medical applications.
 
+## Dataset
+The MRI brain tumor dataset is available on Kaggle:
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
